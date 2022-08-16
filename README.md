@@ -7,6 +7,7 @@ I am Wahyu. I've been graduated from Electronic Engineering Diploma Program at S
 <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Flutter-60D8FE?logo=flutter&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Go-69D7E4?logo=go&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Docker-2497ED?logo=docker&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Mysql-00608C?logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MongoDB-10AA50?logo=mongodb&logoColor=white" />
 <br><br>
