@@ -20,7 +20,7 @@
 - <a href="https://www.dicoding.com/certificates/EYX4222KRZDL">Menjadi Google Cloud Engineer (Dicoding)</a>
 
 #
-### 🔍 You also can also find me on
+### 🔍 You also can find me on
 <br>
 <p> 
   <a href="https://www.linkedin.com/in/wahyudotdev/" target="_blank">
