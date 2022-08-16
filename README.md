@@ -1,5 +1,5 @@
 # Hi, Folks
-### I am Wahyu. I've been graduated from Electronic Engineering Diploma Program at Semarang State's Polytechnic since 2021. Currently I'am working as Android Developer at [Crocodic](https://crocodic.com). I hope you can utilize something from my public repository :)
+I am Wahyu. I've been graduated from Electronic Engineering Diploma Program at Semarang State's Polytechnic since 2021. Currently I'am working as Android Developer at [Crocodic](https://crocodic.com). I hope you can utilize something from my public repository :)
 #
 ### ⚡️ Tech stack that I'm mostly used
 <br>
