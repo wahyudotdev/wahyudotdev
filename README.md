@@ -1,5 +1,5 @@
 # Hi, Folks
-I am Wahyu. I've been graduated from Electronic Engineering Diploma Program at Semarang State's Polytechnic since 2021. Currently I'am working as Android Developer at [Crocodic](https://crocodic.com). I hope you can utilize something from my public repository :)
+Hope you can utilize something from my public repository :)
 #
 ### ⚡️ Tech stack that I'm mostly used
 <br>
@@ -16,9 +16,10 @@ I am Wahyu. I've been graduated from Electronic Engineering Diploma Program at S
 #
 ### 📜 Certification :
 
+- <a href="https://www.credential.net/b2030c41-2c69-40f6-a06a-193d0a8cddf2?key=196a2d60b9c02886e5107c5c568807a9b3d7ec2e07f111fb4aff637d5ac150dd">Google Certified Associate Cloud Engineer (ACE)</a>
+
 - <a href="https://www.dicoding.com/certificates/RVZK4D4M4PD5">Belajar Android Jetpack Pro (Dicoding)</a>
 
-- <a href="https://www.dicoding.com/certificates/EYX4222KRZDL">Menjadi Google Cloud Engineer (Dicoding)</a>
 
 #
 ### 🔍 You also can find me on
