@@ -1,7 +1,7 @@
 # Hi, Folks
 Hope you can utilize something from my public repository :)
 #
-### ⚡️ Power Ups
+### ⚡️ Power Up(s)
 <br>
 <p align="justify">
 <img align="left" src="https://img.shields.io/badge/Go-white?logo=go&logoColor=00ACD7" />
