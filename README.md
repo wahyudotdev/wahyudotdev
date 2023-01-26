@@ -4,8 +4,6 @@ Hope you can utilize something from my public repository :)
 ### ⚡️ Tech stack that I'm mostly used
 <br>
 <p align="justify">
-<img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Flutter-60D8FE?logo=flutter&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Go-69D7E4?logo=go&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Docker-2497ED?logo=docker&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Mysql-00608C?logo=mysql&logoColor=white" />
