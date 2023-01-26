@@ -4,10 +4,12 @@ Hope you can utilize something from my public repository :)
 ### ⚡️ Tech stack that I'm mostly used
 <br>
 <p align="justify">
-<img align="left" src="https://img.shields.io/badge/Go-69D7E4?logo=go&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Go-white?logo=go&logoColor=00ACD7" />
 <img align="left" src="https://img.shields.io/badge/Docker-2497ED?logo=docker&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Mysql-00608C?logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MongoDB-10AA50?logo=mongodb&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/k8s-326CE5?logo=kubernetes&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/rabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>  
 <br><br>
 </p>
 
